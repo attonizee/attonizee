@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @attonizee
 - 👀 I’m interested in programming, video games, have a good rest.
-- 🌱 I’m currently learning IOS app development with Swift.
+- 🌱 I’m currently learning DevOps culture.
 - 📫 You can reach me by email: anatoliiv1990@gmail.com
 
 <!---

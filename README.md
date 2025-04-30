@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @attonizee
-- 👀 I’m interested in programming, video games, have a good rest.
-- 🌱 I’m currently learning DevOps culture.
+- 👀 I’m interested in programming, video games, and having a good rest.
+- 🌱 I’m currently learning Python Scripting.
 - 📫 You can reach me by email: anatolii.veselyi@icloud.com
 
 <!---
